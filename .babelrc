@@ -1,11 +1,6 @@
 {
   "presets": [
-    "es2015"
-  ],
-  "plugins": [
-    "syntax-async-functions",
-    "transform-regenerator",
-    "transform-object-rest-spread",
-    "transform-async-to-generator"
+    "es2015",
+    "stage-0"
   ]
 }
